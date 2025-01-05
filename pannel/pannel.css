@@ -1,0 +1,75 @@
+.pannel{
+    min-height: 100vh;
+    height: fit-content;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.pannel-container{
+    height: fit-content;
+    width: 100%;
+    gap: 12px;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.pannel-container-wrapper{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 10px;
+}
+
+.pannel-choice{
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    width: 300px;
+    height: 150px;
+
+    box-sizing: border-box;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    gap: 12px;
+}
+
+.pannel-choice-title{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.pannel-choice-btn{
+    border: 1px black solid;
+    background-color: white;
+    font-size: 14px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    transition: .25s;
+}
+
+.pannel-choice-btn:hover{
+    transition: .25s;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.pannel-choice-btn a{
+    text-decoration: none;
+    color: inherit;
+}

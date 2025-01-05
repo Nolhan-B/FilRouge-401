@@ -1,0 +1,70 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+    font-family: "League Spartan", sans-serif;
+}
+
+footer{
+    margin-top: 48px;
+
+    background-color: #4e3526;
+    color: white;
+
+    display: flex;
+    justify-content: space-evenly;
+    padding: 48px 0;
+
+    position: relative;
+    width: 100%;
+}
+
+.CritiClick{
+    text-decoration: none;
+    color: inherit;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.footer-element{ 
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    font-size: 28px !important;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.footer-element-line{
+    color: inherit;
+    text-decoration: none;
+    font-size: 18px;
+    transition: .25s;
+}
+
+.footer-element-line:hover{
+    filter: brightness(75%);
+    transition: .25s;
+}
+
+.footer-lowbar{
+    position: absolute;
+    bottom: 0;
+
+    width: 100%;
+    height: fit-content;
+    background-color: #000000;
+    text-align: center;
+}
+
+@media(max-width:1250px) {
+    footer{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+
+        gap: 32px;
+    }
+}

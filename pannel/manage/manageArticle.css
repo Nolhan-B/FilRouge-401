@@ -1,0 +1,95 @@
+.validation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+
+.validation h1{
+    padding-top: 150px;
+    font-size: 48px;
+}
+
+.validation-container{
+    width: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+
+}
+
+.container-item{
+    width: calc(100% - 50px);
+    background-image: linear-gradient(to right bottom, 
+    rgba(140, 85, 53, 0.5), 
+    rgba(168, 123, 89, 0.5), 
+    rgba(196, 161, 130, 0.5), 
+    rgba(225, 201, 174, 0.5), 
+    rgba(255, 241, 221, 0.5)
+);
+    border-radius: 10px;
+    padding: 16px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.container-item-text{
+    max-width: 80%;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.container-item-image{
+    width: auto;
+    max-width: 280px;
+
+    height: auto;
+    max-height: 400px;
+    
+    object-fit: cover;
+}
+
+
+.container-item-name{
+    font-size: 32px;
+}
+
+.container-item-tags{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.tags-wrapper{
+    display: flex;
+    gap: 8px;
+}
+
+.tag{
+    background-color: white;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.buttons-btn{
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: 1px black solid;
+    border-radius: 25px;
+    transition: .25s;
+}
+
+.buttons-btn:hover{
+    background-color: black;
+    color: white;
+    transition: .25s;
+}

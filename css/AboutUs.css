@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "League Spartan", sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    width:  100vw;
+    height: fit-content;
+    background-color: rgb(255, 248, 241);
+}
+
+.container{
+    display: flex;
+    flex-direction:column ;
+
+    gap: 48px;
+    padding: 2rem;
+}
+
+.question:nth-of-type(1){
+    margin-top: 75px;
+}
+
+.question{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    line-height: 1.25rem;
+}
+
+.question h2{
+    font-size: 40px;
+    line-height: 1em;
+}
+
+.question p{
+    font-size: 18px;
+}

@@ -1,0 +1,524 @@
+[{
+    "id": 1,
+    "utilisateur_id": 1,
+    "article_id": 1,
+    "note": 5,
+    "commentaire": "Un excellent jeu, l'action est vraiment intense et fidèle à l'univers d'Hyrule.",
+    "lien_achat": "https://www.amazon.fr/Nintendo-221206-Hyrule-Warriors-Definitive/dp/B07BHGNJ2V",
+    "prix": "49.99",
+    "date_avis": "2024-10-22 14:00:00"
+  },
+  {
+    "id": 2,
+    "utilisateur_id": 1,
+    "article_id": 1,
+    "note": 4,
+    "commentaire": "Très bon jeu, mais répétitif à la longue.",
+    "lien_achat": "https://www.amazon.fr/Nintendo-221206-Hyrule-Warriors-Definitive/dp/B07BHGNJ2V",
+    "prix": "39.99",
+    "date_avis": "2024-10-21 10:30:00"
+  },
+  {
+    "id": 3,
+    "utilisateur_id": 1,
+    "article_id": 1,
+    "note": 3,
+    "commentaire": "Pas mal, mais je m'attendais à plus de contenu.",
+    "lien_achat": "https://www.amazon.fr/Nintendo-221206-Hyrule-Warriors-Definitive/dp/B07BHGNJ2V",
+    "prix": "29.99",
+    "date_avis": "2024-10-20 17:45:00"
+  },
+  {
+    "id": 4,
+    "utilisateur_id": 1,
+    "article_id": 2,
+    "note": 5,
+    "commentaire": "FIFA 18 est un must pour les fans de foot ! Super ambiance de coupe du monde.",
+    "lien_achat": "https://www.amazon.fr/Electronic-Arts-5030948121524-FIFA-18/dp/B072JTCLVL",
+    "prix": "24.99",
+    "date_avis": "2024-10-21 12:00:00"
+  },
+  {
+    "id": 5,
+    "utilisateur_id": 1,
+    "article_id": 2,
+    "note": 4,
+    "commentaire": "Bon jeu, mais quelques bugs de gameplay.",
+    "lien_achat": "https://www.amazon.fr/Electronic-Arts-5030948121524-FIFA-18/dp/B072JTCLVL",
+    "prix": "19.99",
+    "date_avis": "2024-10-20 15:20:00"
+  },
+  {
+    "id": 6,
+    "utilisateur_id": 1,
+    "article_id": 2,
+    "note": 3,
+    "commentaire": "Sympa, mais je préfère les éditions précédentes.",
+    "lien_achat": "https://www.amazon.fr/Electronic-Arts-5030948121524-FIFA-18/dp/B072JTCLVL",
+    "prix": "17.99",
+    "date_avis": "2024-10-19 18:10:00"
+  },
+  {
+    "id": 7,
+    "utilisateur_id": 1,
+    "article_id": 3,
+    "note": 5,
+    "commentaire": "Un jeu génial avec une excellente rejouabilité.",
+    "lien_achat": "https://www.amazon.fr/The-Binding-of-Isaac-Afterbirth/dp/B07258Q5D3",
+    "prix": "24.00",
+    "date_avis": "2024-10-22 09:45:00"
+  },
+  {
+    "id": 8,
+    "utilisateur_id": 1,
+    "article_id": 3,
+    "note": 4,
+    "commentaire": "J'ai acheté le jeu et franchement j'ai pas trop accroché...",
+    "lien_achat": "https://www.amazon.fr/The-Binding-of-Isaac-Afterbirth/dp/B07258Q5D3",
+    "prix": "22.00",
+    "date_avis": "2024-10-21 13:36:57"
+  },
+  {
+    "id": 9,
+    "utilisateur_id": 1,
+    "article_id": 3,
+    "note": 2,
+    "commentaire": "Difficile de prendre en main, trop punitif pour moi.",
+    "lien_achat": "https://www.amazon.fr/The-Binding-of-Isaac-Afterbirth/dp/B07258Q5D3",
+    "prix": "19.00",
+    "date_avis": "2024-10-20 16:05:00"
+  },
+  {
+    "id": 10,
+    "utilisateur_id": 1,
+    "article_id": 4,
+    "note": 5,
+    "commentaire": "Très bon cadre de lit, solide et facile à monter.",
+    "lien_achat": "https://www.amazon.fr/Coavas-91x197cm-Adultes-Enfants-Sommier/dp/B01M0AAHQN",
+    "prix": "99.99",
+    "date_avis": "2024-10-22 08:30:00"
+  },
+  {
+    "id": 11,
+    "utilisateur_id": 1,
+    "article_id": 4,
+    "note": 4,
+    "commentaire": "Bon produit, mais le design pourrait être amélioré.",
+    "lien_achat": "https://www.amazon.fr/Coavas-91x197cm-Adultes-Enfants-Sommier/dp/B01M0AAHQN",
+    "prix": "89.99"
+  },
+  {
+    "id": 12,
+    "utilisateur_id": 1,
+    "article_id": 4,
+    "note": 3,
+    "commentaire": "Un peu cher pour la qualité, mais reste correct.",
+    "lien_achat": "https://www.amazon.fr/Coavas-91x197cm-Adultes-Enfants-Sommier/dp/B01M0AAHQN",
+    "prix": "79.99"
+  },
+  {
+    "id": 13,
+    "utilisateur_id": 1,
+    "article_id": 7,
+    "note": 5,
+    "commentaire": "Un bureau magnifique avec une touche classique. J'adore !",
+    "lien_achat": "https://www.amazon.fr/bureau-baroque-réplique-antique-placard/dp/B012KTKJ68",
+    "prix": "199.99"
+  },
+  {
+    "id": 14,
+    "utilisateur_id": 1,
+    "article_id": 7,
+    "note": 4,
+    "commentaire": "Bon bureau, mais un peu compliqué à assembler.",
+    "lien_achat": "https://www.amazon.fr/bureau-baroque-réplique-antique-placard/dp/B012KTKJ68",
+    "prix": "189.99"
+  },
+  {
+    "id": 15,
+    "utilisateur_id": 1,
+    "article_id": 7,
+    "note": 3,
+    "commentaire": "Le design est joli, mais le prix est élevé pour la qualité.",
+    "lien_achat": "https://www.amazon.fr/bureau-baroque-réplique-antique-placard/dp/B012KTKJ68",
+    "prix": "179.99"
+  },
+  {
+    "id": 16,
+    "utilisateur_id": 1,
+    "article_id": 5,
+    "note": 5,
+    "commentaire": "Une bibliothèque magnifique, parfaite pour mon bureau.",
+    "lien_achat": "https://www.amazon.fr/Simone-Guarracino-Bibliothèque-présidentielle-ministérielle/dp/B073RNYXVS",
+    "prix": "149.99"
+  },
+  {
+    "id": 17,
+    "utilisateur_id": 1,
+    "article_id": 5,
+    "note": 4,
+    "commentaire": "Très belle bibliothèque, mais elle prend beaucoup de place.",
+    "lien_achat": "https://www.amazon.fr/Simone-Guarracino-Bibliothèque-présidentielle-ministérielle/dp/B073RNYXVS",
+    "prix": "139.99"
+  },
+  {
+    "id": 18,
+    "utilisateur_id": 1,
+    "article_id": 5,
+    "note": 3,
+    "commentaire": "Trop chère pour ce que c'est, mais elle est jolie.",
+    "lien_achat": "https://www.amazon.fr/Simone-Guarracino-Bibliothèque-présidentielle-ministérielle/dp/B073RNYXVS",
+    "prix": "129.99"
+  },
+  {
+    "id": 19,
+    "utilisateur_id": 1,
+    "article_id": 6,
+    "note": 5,
+    "commentaire": "Ma fille adore cette poupée, c'est parfait pour le bain !",
+    "lien_achat": "https://www.amazon.fr/gp/product/B071K8W7L1",
+    "prix": "24.99"
+  },
+  {
+    "id": 20,
+    "utilisateur_id": 1,
+    "article_id": 6,
+    "note": 4,
+    "commentaire": "Très bien, mais un peu cher pour une poupée de bain.",
+    "lien_achat": "https://www.amazon.fr/gp/product/B071K8W7L1",
+    "prix": "22.99"
+  },
+  {
+    "id": 21,
+    "utilisateur_id": 1,
+    "article_id": 6,
+    "note": 3,
+    "commentaire": "Mon fils l'aime bien, mais ça ne vaut pas le prix.",
+    "lien_achat": "https://www.amazon.fr/gp/product/B071K8W7L1",
+    "prix": "19.99"
+  },
+  {
+    "id": 22,
+    "utilisateur_id": 1,
+    "article_id": 8,
+    "note": 5,
+    "commentaire": "Le jeu parfait pour s'amuser en famille, toujours un succès.",
+    "lien_achat": "https://www.amazon.fr/Hasbro-988311010-Twister-Jeu-Société/dp/B0071HOKRO",
+    "prix": "19.99"
+  },
+  {
+    "id": 23,
+    "utilisateur_id": 1,
+    "article_id": 8,
+    "note": 4,
+    "commentaire": "Twister reste un classique, on ne s'en lasse pas.",
+    "lien_achat": "https://www.amazon.fr/Hasbro-988311010-Twister-Jeu-Société/dp/B0071HOKRO",
+    "prix": "17.99"
+  },
+  {
+    "id": 24,
+    "utilisateur_id": 1,
+    "article_id": 8,
+    "note": 3,
+    "commentaire": "Sympa, mais après quelques parties, ça devient répétitif.",
+    "lien_achat": "https://www.amazon.fr/Hasbro-988311010-Twister-Jeu-Société/dp/B0071HOKRO",
+    "prix": "15.99"
+  },
+  {
+    "id": 25,
+    "utilisateur_id": 1,
+    "article_id": 9,
+    "note": 5,
+    "commentaire": "Super pour initier les enfants à la programmation. Mon fils adore.",
+    "lien_achat": "https://www.amazon.fr/Lego-MINDSTORMS-EV3-31313-Construction/dp/B00BMKLVJ6",
+    "prix": "249.99"
+  },
+  {
+    "id": 26,
+    "utilisateur_id": 1,
+    "article_id": 9,
+    "note": 4,
+    "commentaire": "Très bon produit, mais un peu compliqué à monter au début.",
+    "lien_achat": "https://www.amazon.fr/Lego-MINDSTORMS-EV3-31313-Construction/dp/B00BMKLVJ6",
+    "prix": "239.99"
+  },
+  {
+    "id": 27,
+    "utilisateur_id": 1,
+    "article_id": 9,
+    "note": 3,
+    "commentaire": "Un peu cher, mais reste un bon outil pédagogique.",
+    "lien_achat": "https://www.amazon.fr/Lego-MINDSTORMS-EV3-31313-Construction/dp/B00BMKLVJ6",
+    "prix": "229.99"
+  },
+  {
+    "id": 28,
+    "utilisateur_id": 1,
+    "article_id": 1,
+    "note": 5,
+    "commentaire": "Toujours un plaisir de jouer à ce jeu. Les graphismes sont sublimes.",
+    "lien_achat": "https://www.amazon.fr/Nintendo-221206-Hyrule-Warriors-Definitive/dp/B07BHGNJ2V",
+    "prix": "59.99",
+    "date_avis": "2024-10-22 16:30:00"
+  },
+  {
+    "id": 29,
+    "utilisateur_id": 1,
+    "article_id": 1,
+    "note": 4,
+    "commentaire": "Le jeu est bon, mais le prix est un peu élevé.",
+    "lien_achat": "https://www.amazon.fr/Nintendo-221206-Hyrule-Warriors-Definitive/dp/B07BHGNJ2V",
+    "prix": "44.99",
+    "date_avis": "2024-10-21 14:00:00"
+  },
+  {
+    "id": 30,
+    "utilisateur_id": 1,
+    "article_id": 1,
+    "note": 3,
+    "commentaire": "Jeu correct, mais un peu répétitif après quelques heures.",
+    "lien_achat": "https://www.amazon.fr/Nintendo-221206-Hyrule-Warriors-Definitive/dp/B07BHGNJ2V",
+    "prix": "39.99",
+    "date_avis": "2024-10-20 13:45:00"
+  },
+  {
+    "id": 31,
+    "utilisateur_id": 1,
+    "article_id": 2,
+    "note": 5,
+    "commentaire": "Super gameplay, très immersif pour les fans de football.",
+    "lien_achat": "https://www.amazon.fr/Electronic-Arts-5030948121524-FIFA-18/dp/B072JTCLVL",
+    "prix": "29.99",
+    "date_avis": "2024-10-22 15:00:00"
+  },
+  {
+    "id": 32,
+    "utilisateur_id": 1,
+    "article_id": 2,
+    "note": 4,
+    "commentaire": "J'ai aimé ce jeu, mais il manque quelques fonctionnalités innovantes.",
+    "lien_achat": "https://www.amazon.fr/Electronic-Arts-5030948121524-FIFA-18/dp/B072JTCLVL",
+    "prix": "22.99",
+    "date_avis": "2024-10-21 11:45:00"
+  },
+  {
+    "id": 33,
+    "utilisateur_id": 1,
+    "article_id": 2,
+    "note": 3,
+    "commentaire": "Pas mal, mais certains bugs sont frustrants.",
+    "lien_achat": "https://www.amazon.fr/Electronic-Arts-5030948121524-FIFA-18/dp/B072JTCLVL",
+    "prix": "18.99",
+    "date_avis": "2024-10-20 17:30:00"
+  },
+  {
+    "id": 34,
+    "utilisateur_id": 1,
+    "article_id": 3,
+    "note": 5,
+    "commentaire": "Excellente rejouabilité, je le recommande à tous les gamers.",
+    "lien_achat": "https://www.amazon.fr/The-Binding-of-Isaac-Afterbirth/dp/B07258Q5D3",
+    "prix": "25.00",
+    "date_avis": "2024-10-22 12:45:00"
+  },
+  {
+    "id": 35,
+    "utilisateur_id": 1,
+    "article_id": 3,
+    "note": 4,
+    "commentaire": "Bon jeu, mais nécessite un temps d'adaptation.",
+    "lien_achat": "https://www.amazon.fr/The-Binding-of-Isaac-Afterbirth/dp/B07258Q5D3",
+    "prix": "23.50",
+    "date_avis": "2024-10-21 16:30:00"
+  },
+  {
+    "id": 36,
+    "utilisateur_id": 1,
+    "article_id": 3,
+    "note": 3,
+    "commentaire": "Joli design, mais la difficulté est trop élevée pour moi.",
+    "lien_achat": "https://www.amazon.fr/The-Binding-of-Isaac-Afterbirth/dp/B07258Q5D3",
+    "prix": "20.50",
+    "date_avis": "2024-10-20 19:45:00"
+  },
+  {
+    "id": 37,
+    "utilisateur_id": 1,
+    "article_id": 4,
+    "note": 5,
+    "commentaire": "Excellent cadre, robuste et facile à installer.",
+    "lien_achat": "https://www.amazon.fr/Coavas-91x197cm-Adultes-Enfants-Sommier/dp/B01M0AAHQN",
+    "prix": "109.99",
+    "date_avis": "2024-10-22 09:30:00"
+  },
+  {
+    "id": 38,
+    "utilisateur_id": 1,
+    "article_id": 4,
+    "note": 4,
+    "commentaire": "Bon produit, mais un peu cher pour ce que c'est.",
+    "lien_achat": "https://www.amazon.fr/Coavas-91x197cm-Adultes-Enfants-Sommier/dp/B01M0AAHQN",
+    "prix": "99.99",
+    "date_avis": "2024-10-21 15:15:00"
+  },
+  {
+    "id": 39,
+    "utilisateur_id": 1,
+    "article_id": 4,
+    "note": 3,
+    "commentaire": "Un peu déçu par la qualité par rapport au prix.",
+    "lien_achat": "https://www.amazon.fr/Coavas-91x197cm-Adultes-Enfants-Sommier/dp/B01M0AAHQN",
+    "prix": "89.99",
+    "date_avis": "2024-10-20 16:45:00"
+  },
+  {
+    "id": 40,
+    "utilisateur_id": 1,
+    "article_id": 5,
+    "note": 5,
+    "commentaire": "Superbe bibliothèque, très spacieuse.",
+    "lien_achat": "https://www.amazon.fr/Simone-Guarracino-Bibliothèque-présidentielle-ministérielle/dp/B073RNYXVS",
+    "prix": "159.99",
+    "date_avis": "2024-10-22 14:30:00"
+  },
+  {
+    "id": 41,
+    "utilisateur_id": 1,
+    "article_id": 5,
+    "note": 4,
+    "commentaire": "Très belle bibliothèque, mais elle est assez encombrante.",
+    "lien_achat": "https://www.amazon.fr/Simone-Guarracino-Bibliothèque-présidentielle-ministérielle/dp/B073RNYXVS",
+    "prix": "149.99",
+    "date_avis": "2024-10-21 16:00:00"
+  },
+  {
+    "id": 42,
+    "utilisateur_id": 1,
+    "article_id": 5,
+    "note": 3,
+    "commentaire": "Beau design, mais je trouve le prix trop élevé.",
+    "lien_achat": "https://www.amazon.fr/Simone-Guarracino-Bibliothèque-présidentielle-ministérielle/dp/B073RNYXVS",
+    "prix": "139.99",
+    "date_avis": "2024-10-20 18:30:00"
+  },
+  {
+    "id": 43,
+    "utilisateur_id": 1,
+    "article_id": 6,
+    "note": 5,
+    "commentaire": "Une super poupée, ma fille en est folle.",
+    "lien_achat": "https://www.amazon.fr/gp/product/B071K8W7L1",
+    "prix": "29.99",
+    "date_avis": "2024-10-22 10:30:00"
+  },
+  {
+    "id": 44,
+    "utilisateur_id": 1,
+    "article_id": 6,
+    "note": 4,
+    "commentaire": "Très bien, mais un peu cher pour une poupée de bain.",
+    "lien_achat": "https://www.amazon.fr/gp/product/B071K8W7L1",
+    "prix": "24.99",
+    "date_avis": "2024-10-21 12:00:00"
+  },
+  {
+    "id": 45,
+    "utilisateur_id": 1,
+    "article_id": 6,
+    "note": 3,
+    "commentaire": "Produit correct, mais rien de spécial.",
+    "lien_achat": "https://www.amazon.fr/gp/product/B071K8W7L1",
+    "prix": "19.99",
+    "date_avis": "2024-10-20 14:30:00"
+  },
+  {
+    "id": 46,
+    "utilisateur_id": 1,
+    "article_id": 7,
+    "note": 5,
+    "commentaire": "Excellente tasse, parfait pour mon café du matin.",
+    "lien_achat": "https://www.amazon.fr/Magic-Cafe-Tasse/dp/B078KBNJXZ",
+    "prix": "12.99",
+    "date_avis": "2024-10-22 10:15:00"
+  },
+  {
+    "id": 47,
+    "utilisateur_id": 1,
+    "article_id": 7,
+    "note": 4,
+    "commentaire": "Très bonne qualité, mais j'aurais aimé un design plus moderne.",
+    "lien_achat": "https://www.amazon.fr/Magic-Cafe-Tasse/dp/B078KBNJXZ",
+    "prix": "11.99",
+    "date_avis": "2024-10-21 11:30:00"
+  },
+  {
+    "id": 48,
+    "utilisateur_id": 1,
+    "article_id": 7,
+    "note": 3,
+    "commentaire": "Pas mal, mais la taille est un peu petite.",
+    "lien_achat": "https://www.amazon.fr/Magic-Cafe-Tasse/dp/B078KBNJXZ",
+    "prix": "9.99",
+    "date_avis": "2024-10-20 14:45:00"
+  },
+  {
+    "id": 49,
+    "utilisateur_id": 1,
+    "article_id": 8,
+    "note": 5,
+    "commentaire": "Super lampe, très stylée et parfaite pour mon bureau.",
+    "lien_achat": "https://www.amazon.fr/TaoTronics-Lampe-dappoint-dimensions-ajustables/dp/B06Y4T59ZS",
+    "prix": "49.99",
+    "date_avis": "2024-10-22 09:45:00"
+  },
+  {
+    "id": 50,
+    "utilisateur_id": 1,
+    "article_id": 8,
+    "note": 4,
+    "commentaire": "Bonne lampe, mais l'éclairage est un peu trop lumineux pour moi.",
+    "lien_achat": "https://www.amazon.fr/TaoTronics-Lampe-dappoint-dimensions-ajustables/dp/B06Y4T59ZS",
+    "prix": "45.99",
+    "date_avis": "2024-10-21 10:30:00"
+  },
+  {
+    "id": 51,
+    "utilisateur_id": 1,
+    "article_id": 8,
+    "note": 3,
+    "commentaire": "Assez bien, mais le prix est un peu trop élevé pour une simple lampe.",
+    "lien_achat": "https://www.amazon.fr/TaoTronics-Lampe-dappoint-dimensions-ajustables/dp/B06Y4T59ZS",
+    "prix": "39.99",
+    "date_avis": "2024-10-20 15:15:00"
+  },
+  {
+    "id": 52,
+    "utilisateur_id": 1,
+    "article_id": 9,
+    "note": 5,
+    "commentaire": "Très bon clavier mécanique, idéal pour le gaming.",
+    "lien_achat": "https://www.amazon.fr/Logitech-920-008393-Switches-Rom-Dos/dp/B06Y4T59ZX",
+    "prix": "89.99",
+    "date_avis": "2024-10-22 08:30:00"
+  },
+  {
+    "id": 53,
+    "utilisateur_id": 1,
+    "article_id": 9,
+    "note": 4,
+    "commentaire": "Clavier de très bonne qualité, mais un peu bruyant pour une utilisation quotidienne.",
+    "lien_achat": "https://www.amazon.fr/Logitech-920-008393-Switches-Rom-Dos/dp/B06Y4T59ZX",
+    "prix": "79.99",
+    "date_avis": "2024-10-21 14:00:00"
+  },
+  {
+    "id": 54,
+    "utilisateur_id": 1,
+    "article_id": 9,
+    "note": 3,
+    "commentaire": "Clavier correct, mais il y a des options moins chères qui offrent les mêmes performances.",
+    "lien_achat": "https://www.amazon.fr/Logitech-920-008393-Switches-Rom-Dos/dp/B06Y4T59ZX",
+    "prix": "69.99",
+    "date_avis": "2024-10-20 16:45:00"
+  }
+]
